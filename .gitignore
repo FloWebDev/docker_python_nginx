@@ -1,0 +1,5 @@
+default/*
+!default/default.html
+flowebdev
+nginx/logs/*
+__pycache__
